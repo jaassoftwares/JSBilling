@@ -1,0 +1,19 @@
+{
+    "name": "js-retail-billing",
+    "version": "1.0.0",
+    "description": "A minimal Electron Billing application",
+    "main": "Main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "author": "js",
+    "license": "",
+    "dependencies": {
+        "electron": "^9.0.5",
+        "mysql": "^2.18.1",
+	"electron-rebuild": "^1.11.0"
+    },
+    "devDependencies": {
+        "electron-rebuild": "^1.11.0"
+    }
+}

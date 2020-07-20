@@ -1,0 +1,4 @@
+body{
+	font-size: smaller !important;
+	line-height: revert !important;
+}
