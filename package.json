@@ -9,7 +9,7 @@
     "author": "js",
     "license": "",
     "dependencies": {
-        "electron": "^9.0.5",
+        "electron": "^15.5.5",
         "mysql": "^2.18.1",
 	"electron-rebuild": "^1.11.0"
     },
